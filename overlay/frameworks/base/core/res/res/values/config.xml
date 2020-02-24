@@ -699,4 +699,7 @@
     <string name="config_SmartChargingSuspendValue" translatable="false">1</string>
     <string name="config_SmartChargingResumeValue" translatable="false">0</string>
 
+    <!-- Smart Charging is available. -->
+    <bool name="config_smartChargingAvailable">true</bool>
+
 </resources>
