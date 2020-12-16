@@ -12,6 +12,9 @@
 -->
 
 <resources>
+    <!-- For Ultra Power Saving -->
+    <bool name="config_supportUltraPowerSaving">true</bool>
+
     <!-- For Enabling Battery Heath -->
     <bool name="config_supportBatteryHealth">true</bool>
 
