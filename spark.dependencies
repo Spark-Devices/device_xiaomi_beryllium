@@ -22,5 +22,5 @@
         "repository": "crdroidandroid/proprietary_vendor_xiaomi",
         "target_path": "vendor/xiaomi",
         "branch": "11.0-beryllium"
-    },
+    }
 ]
