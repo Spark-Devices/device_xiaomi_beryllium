@@ -1,0 +1,26 @@
+[
+    {
+        "remote": "gitlab",
+        "repository": "spkal01/clang-proton",
+        "target_path": "prebuilts/clang/host/linux-x86/clang-proton",
+        "branch": "fire"
+    },
+    {
+        "remote": "devices",
+        "repository":  "device_xiaomi_sdm845-common",
+        "target_path": "device/xiaomi/sdm845-common",
+        "branch": "fire"
+    },
+    {
+        "remote": "github",
+        "repository": "GZR-Kernels/Optimus_Drunk_Beryllium",
+        "target_path": "kernel/xiaomi/sdm845",
+        "branch": "11.0"
+    },
+    {
+        "remote": "github",
+        "repository": "crdroidandroid/proprietary_vendor_xiaomi",
+        "target_path": "vendor/xiaomi",
+        "branch": "11.0-beryllium"
+    },
+]
